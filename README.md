@@ -22,16 +22,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
 
 ```
-<table>
-  <tr>
-    <td>
-      <img src="https://gh-readme-profile.vercel.app/api?username=azzyroboyz&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-
-
 <!-- Snake animation -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -76,18 +66,10 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azzyroboyz/azzyroboyz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azzyroboyz/azzyroboyz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azzyroboyz/azzyroboyz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
+<table>
+  <tr>
+    <td>
+      <img src="https://gh-readme-profile.vercel.app/api?username=azzyroboyz&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
