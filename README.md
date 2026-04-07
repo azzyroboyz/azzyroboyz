@@ -62,14 +62,7 @@
 ###
 
 <div align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=azzyroboyz&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="GitHub Stats" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://gh-readme-profile.vercel.app/api?username=azzyroboyz&theme=monochrome-dark-gradient&border_width=0&bg_color=141b23" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
